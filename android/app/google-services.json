@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "195991091953",
+    "project_id": "atelier4-taha-elasri-iir5g7",
+    "storage_bucket": "atelier4-taha-elasri-iir5g7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195991091953:android:136e2aac3f64f929244750",
+        "android_client_info": {
+          "package_name": "com.example.atelier4_mohamedtaha_elasri_iir5g7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBheZkZXSkR8X_hVOToO86Ry1MPQodPMzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
